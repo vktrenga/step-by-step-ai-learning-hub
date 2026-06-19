@@ -95,25 +95,6 @@ Real-world applications and end-to-end projects:
 
 ---
 
-## 🎯 Learning Path
-
-**Beginner:**
-1. Start with [Natural Language Processing (NLP)](nlp/readme.md) to understand text processing fundamentals
-2. Progress to [LLM & Hugging Face](llm_and_huggingface/readme.md) to learn about neural networks
-3. Conclude with [LangChain Framework](langchain/readme.md) to build applications
-
-**Intermediate:**
-- Explore [Vector Databases](vectordb/readme.md) for semantic search and RAG systems
-- Learn [LangGraph](longgraph/readme.md) for advanced agent orchestration
-- Build UIs with [Streamlit](streamlit/readme.md)
-
-**Advanced:**
-- Combine all concepts for sophisticated AI systems
-- Build multi-agent architectures using [LangGraph](longgraph/readme.md)
-- Add voice capabilities with [Speech Recognition](speech_recognition/readme.md)
-- Deploy end-to-end solutions from [Use Cases](usecases/readme.md)
-
----
 
 
 
