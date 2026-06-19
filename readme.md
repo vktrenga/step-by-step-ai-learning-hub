@@ -32,8 +32,10 @@ Explore advanced AI models from Hugging Face:
 Build production-ready AI applications using LangChain:
 - **Framework Basics**: What LangChain is and why it matters
 - **OpenAI Integration**: Connecting to powerful language models
-- **Prompt Engineering**: Designing effective prompts
+- **Prompt Engineering**: Designing effective prompts (zero-shot, few-shot, chain-of-thought)
 - **Runnable Abstractions**: Piping, sequencing, and parallel execution
+- **RAG (Retrieval-Augmented Generation)**: Building systems that connect LLMs to proprietary data
+- **Vector Stores & Embeddings**: Semantic search, similarity matching, and knowledge retrieval
 - **Real-World Use Cases**: Building travel assistants, chatbots, and more
 
 **Learn how to compose AI components into sophisticated applications.**
